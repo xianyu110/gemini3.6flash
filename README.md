@@ -26,7 +26,7 @@ Google 刚发布了最新的 Gemini 系列模型（包括 Gemini 3.1 Pro 与 Gem
 
 **第一步：访问镜像站**
 
-- 镜像站地址 1：https://geminiai.asia/list/#/home
+- 镜像站地址 1：https://gemini-ultra.top/list/#/home
 - 镜像站地址 2：https://all.trygpt.asia/ （备用/新镜像站）
 
 ![Gemini 镜像站](https://upload.maynor1024.live/file/1771546698300_image-20260220081810246.png)
@@ -359,7 +359,7 @@ print(response.text)
 
 **推荐：镜像站（方式一）**
 
-地址：https://geminiai.asia/list/#/home 或 https://all.trygpt.asia/
+地址：https://gemini-ultra.top/list/#/home 或 https://all.trygpt.asia/
 
 理由：
 - 完全免费
